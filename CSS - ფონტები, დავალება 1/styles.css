@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'OldStandardTT' ;
+    src: url(./fonts/OldStandardTT-Bold.ttf);
+}
+@font-face {
+    font-family: 'OldStandardTT' ;
+    src: url(./fonts/OldStandardTT-Regular.ttf);
+}
+
+
+h5{
+    text-transform: capitalize;
+    font-family: 'Iowan Old Style';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.p1 .p2{
+    width: 100%;
+    font-family: 'Old Standard TT';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+.p2{
+    text-transform: capitalize;
+}
